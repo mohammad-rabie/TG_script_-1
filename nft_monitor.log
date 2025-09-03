@@ -1,0 +1,17 @@
+2025-09-04 01:53:29,579 - INFO - 🎯 Starting Telegram NFT Market Monitor - Bot Version
+2025-09-04 01:53:29,580 - INFO - 📡 Monitoring: https://portals-market.com/api/market/actions/
+2025-09-04 01:53:29,580 - INFO - 📢 Telegram Channel: @distinctivegifts
+2025-09-04 01:53:29,580 - INFO - ⏱️ Check Interval: 5 seconds
+2025-09-04 01:53:29,581 - INFO - 🛡️ Rate Limits: 8/min, 150/hour, 2000/day
+2025-09-04 01:53:29,581 - INFO - 🚀 Starting NFT monitoring loop...
+2025-09-04 01:53:29,581 - INFO - 🔄 Token refresh needed, extracting fresh token...
+2025-09-04 01:53:29,581 - INFO - 🚀 Extracting fresh authorization token...
+2025-09-04 01:53:29,581 - INFO - 🌐 Setting up browser for token extraction...
+2025-09-04 01:53:30,755 - INFO - ✅ Browser setup completed - Chrome should be fully visible
+2025-09-04 01:53:30,755 - INFO - 🌐 Navigating to: https://web.telegram.org/k/#@portals
+2025-09-04 01:53:37,898 - ERROR - 🚨 Navigation error: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://web.telegram.org/k/#@portals", waiting until "networkidle"
+
+2025-09-04 01:53:37,898 - ERROR - ❌ Failed to obtain valid authorization token
+2025-09-04 01:53:37,898 - ERROR - ❌ No valid token available, retrying in 10 seconds...
